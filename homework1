@@ -1,0 +1,10 @@
+per1 = "homework" #тип str
+print(per1)
+per2 = 22 # тип int
+print(per2)
+per3 = 22.22 # тип float
+print(per3)
+per4 = true # тип boolean
+print(per4)
+per5 = none
+print(per5)
